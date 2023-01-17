@@ -1,0 +1,3 @@
+[submodule "Simple-Weather-Bootstrap"]
+	path = Simple-Weather-Bootstrap
+	url = git@github.com:deybyr647/Simple-Weather-Bootstrap.git
